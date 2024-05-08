@@ -17,3 +17,31 @@ Here are some ideas to get you started:
 
 ### Who i am?
 
+```javascript
+function getMohamadSD2002() {
+  const me = {
+    full_name: "Mohamad Sedigh Bakhshayesh",
+    age: 21,
+    education: "BS student in Computer Engineering",
+
+    programming_lang: ["HTML", "CSS", "Javascript"],
+    frameworks: ["React.js", "Next.js"],
+
+    favorites: [
+      "computer",
+      "programming",
+      "frantend",
+      "music"
+    ],
+    learning: [
+      "Computer Engineering",
+      "design patterns"
+    ],
+    working_on: ["level up my skills", "hanzalu"]
+  };
+
+  return me;
+}
+
+const mohamadInfo = getMohamadSD2002();
+```

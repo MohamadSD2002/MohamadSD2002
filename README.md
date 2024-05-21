@@ -39,7 +39,7 @@ function getMohamadSD2002() {
       "Computer Engineering",
       "design patterns"
     ],
-    working_on: ["level up my skills", "hanzalu"]
+    working_on: ["level up my skills", "safarbazi"]
   };
 
   return me;

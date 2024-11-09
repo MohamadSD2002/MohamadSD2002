@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 function getMohamadSD2002() {
   const me = {
     full_name: "Mohamad Sedigh Bakhshayesh",
-    age: 21,
+    age: 22,
     education: "BS student in Computer Engineering",
 
     programming_lang: ["HTML", "CSS", "Javascript"],

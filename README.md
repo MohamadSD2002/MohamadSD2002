@@ -59,7 +59,7 @@ const mohamadInfo = getMohamadSD2002();
       <h3>🔥 Project 1</h3>
       <p>with React.js</p>
       <a href="https://github.com/mohamadsd2002/project1">
-        <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/GitHub-View_Project-000000?style=for-the-badge&logo=github">
       </a>
       <a href="https://mohamadsd2002.github.io/project1">
         <img src="https://img.shields.io/badge/Live_Demo-Online-28A745?style=for-the-badge&logo=googlechrome&logoColor=white">
@@ -89,6 +89,6 @@ const mohamadInfo = getMohamadSD2002();
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/mohamadsd2002">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github">
   </a>
 </p>

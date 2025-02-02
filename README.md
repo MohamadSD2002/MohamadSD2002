@@ -46,7 +46,7 @@ const mohamadInfo = getMohamadSD2002();
 
 <h2 align="center">🛠️ My Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,git,docker,figma,vscode,cicd" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,git,docker,figma,vscode" />
 </p>
 
 ---
@@ -55,7 +55,7 @@ const mohamadInfo = getMohamadSD2002();
 
 <table align="center">
   <tr>
-    <td width="49%" align="center">
+    <td width="40%" align="center">
       <h3>🔥 Project 1</h3>
       <p>with React.js</p>
       <a href="https://github.com/mohamadsd2002/project1">
@@ -65,7 +65,7 @@ const mohamadInfo = getMohamadSD2002();
         <img src="https://img.shields.io/badge/Live_Demo-Online-28A745?style=for-the-badge&logo=googlechrome&logoColor=white">
       </a>
     </td>
-    <td width="49%" align="center">
+    <td width="40%" align="center">
       <h3>🚀 Project 2</h3>
       <p>with Next.js</p>
       <a href="https://github.com/mohamadsd2002/project2">

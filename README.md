@@ -1,6 +1,6 @@
 <!-- 🚀 انیمیشن تایپ‌شونده در هدر -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Mohamad!+%F0%9F%91%8B;Frontend+Developer+%7C+React.js+%7C+Next.js+%7C+TypeScript;Welcome+to+My+World+of+Code!+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://github.com/MohamadSD2002/MohamadSD2002/assets/118728086/a09ea0a0-486e-486d-9576-ca269f807334" alt="Typing SVG">
 </p>
 
 <!-- 🎬 گیف متحرک در هدر -->

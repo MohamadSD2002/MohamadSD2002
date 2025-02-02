@@ -17,7 +17,6 @@ function getMohamadSD2002() {
   const me = {
     full_name: "Mohamad Sedigh Bakhshayesh",
     age: 22,
-    age: 21,
     education: "BS student in Computer Engineering",
 
     programming_lang: [

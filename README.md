@@ -1,82 +1,75 @@
-!-- بنر متحرک -->
+<!-- 🌟 هدر پویا با متن متحرک و افکت نئونی -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&height=50&lines=Hey%2C+I'm+Mohamad!+%F0%9F%91%8B;Frontend+Developer+%7C+React.js+%7C+Next.js+%7C+TypeScript;Turning+ideas+into+interactive+experiences!+%F0%9F%9A%80" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=600&size=35&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=80&lines=%F0%9F%8E%89++%F0%9F%92%A1+Fullstack+Alchemist+%7C+UI%2FUX+Architect+%F0%9F%92%A1++;%E2%9C%A8+Transforming+Ideas+into+Digital+Experiences+%E2%9C%A8;%F0%9F%8F%88+Next.js+Ninja+%7C+TypeScript+Samurai+%F0%9F%8F%88" alt="Typing SVG">
 </p>
 
-<!-- گیف متحرک -->
+<!-- 🌀 گیف سه بعدی با افکت هولوگرام -->
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600">
-</p>
-
----
-
-<h2 align="center">🌟 About Me</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="40"> Hi! I'm <b>Mohamad Sedigh Bakhshaish</b>, a <b>Frontend Developer</b> passionate about building immersive web experiences. <br>
-  I specialize in <b>React.js, Next.js, and TypeScript</b>, and I love crafting beautiful, fast, and scalable applications. 🚀
+  <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEwT5u/giphy.gif" width="800">
 </p>
 
 ---
 
-<h2 align="center">💡 Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,git,docker,figma" />
-</p>
+<!-- 🎇 کارت پویای معرفی با گرادیانت -->
+<div align="center" style="background:linear-gradient(135deg,#000428,#004e92);padding:2rem;border-radius:20px;box-shadow:0 0 30px #00ffff88">
+  <h2 style="color:#00ffd1;font-family:'Courier New';text-shadow:0 0 15px #00ffff">🚀 About This Cyber Developer</h2>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=mohamadsd2002&color=00ffd1&style=flat-square)
+  
+  <p align="center" style="color:#fff;font-size:1.1rem">
+    <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="50"> 
+    Code Wizard 🔮 building <b>Next-Gen Web Experiences</b> with:<br>
+    <span style="color:#00ffd1">React.js</span> ⚛️ | <span style="color:#00ffd1">TypeScript</span> 📘 | <span style="color:#00ffd1">WebGL</span> 🌌<br>
+    🏆 Winner of <b>5 Hackathons</b> | 🧪 Tech Experimenter | 🎮 Game Dev Enthusiast
+  </p>
+</div>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- 🛠️ تکنولوژی‌ها با افکت نورپردازی -->
+<h2 align="center" style="color:#00ffd1;text-shadow:0 0 15px #00ffff">⚡ Cyber Tech Stack</h2>
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🔥 Project 1</h3>
-      <p>A modern and responsive web app built with React.js & TailwindCSS</p>
-      <a href="https://github.com/mohamadsd2002/project1">
-        <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github">
-      </a>
-      <a href="https://mohamadsd2002.github.io/project1">
-        <img src="https://img.shields.io/badge/Live_Demo-Online-28A745?style=for-the-badge&logo=googlechrome&logoColor=white">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🚀 Project 2</h3>
-      <p>A Next.js-powered portfolio site with stunning animations</p>
-      <a href="https://github.com/mohamadsd2002/project2">
-        <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github">
-      </a>
-      <a href="https://mohamadsd2002.github.io/project2">
-        <img src="https://img.shields.io/badge/Live_Demo-Online-28A745?style=for-the-badge&logo=googlechrome&logoColor=white">
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,graphql,webpack,jest,threejs,nodejs,express,mongodb,postgres,redis,docker,aws,githubactions,figma,blender&theme=dark&perline=10" />
+</div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadsd2002&show_icons=true&theme=tokyonight&count_private=true&hide_border=true">
-</p>
+<!-- 🚀 پروژه‌ها با کارت‌های هولوگرافیک -->
+<h2 align="center" style="color:#00ffd1;text-shadow:0 0 15px #00ffff">💥 Quantum Projects</h2>
 
----
-
-<h2 align="center">📬 Let's Connect!</h2>
-<p align="center">
-  <a href="mailto:mohamadsedighbakhshaish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<div align="center">
+  <a href="https://github.com/mohamadsd2002/cyber-portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamadsd2002&repo=cyber-portal&theme=react&show_owner=true&border_color=00ffff" style="margin:10px;border-radius:15px;box-shadow:0 0 20px #00ffff33">
   </a>
-  <a href="https://www.linkedin.com/in/mohamadsd2002">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://github.com/mohamadsd2002/neon-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamadsd2002&repo=neon-dashboard&theme=react&show_owner=true&border_color=00ffff" style="margin:10px;border-radius:15px;box-shadow:0 0 20px #00ffff33">
   </a>
-  <a href="https://github.com/mohamadsd2002">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
+</div>
 
 ---
 
-<h3 align="center">🚀 Code. Learn. Build. Repeat. 🔥</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600">
-</p>
+<!-- 📊 آمار پیشرفته با نمودارهای سه بعدی -->
+<h2 align="center" style="color:#00ffd1;text-shadow:0 0 15px #00ffff">📈 Cyber Metrics</h2>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamadsd2002&theme=github_dark" width="90%">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadsd2002&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamadsd2002&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000" width="45%">
+</div>
+
+---
+
+<!-- 🎮 بخش تعاملی با ترمینال مجازی -->
+<h2 align="center" style="color:#00ffd1;text-shadow:0 0 15px #00ffff">🔮 Cyber Console</h2>
+
+```bash
+npm install @mohamad/coding-magic
+
+> Installing cyber modules...
+✔ WebGL Particles Loaded
+✔ Neural Networks Activated
+✔ Quantum State Initialized
+
+🚀 Ready to hack the matrix!

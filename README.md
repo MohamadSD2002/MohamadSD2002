@@ -29,7 +29,7 @@ Hi there! I'm <b>Mohamad Sedigh Bakhshaish</b>, a <b>Frontend Developer</b> who 
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
+    <td width="49%" align="center">
       <h3>🔥 Project 1</h3>
       <p>with React.js</p>
       <a href="https://github.com/mohamadsd2002/project1">
@@ -39,7 +39,7 @@ Hi there! I'm <b>Mohamad Sedigh Bakhshaish</b>, a <b>Frontend Developer</b> who 
         <img src="https://img.shields.io/badge/Live_Demo-Online-28A745?style=for-the-badge&logo=googlechrome&logoColor=white">
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="49%" align="center">
       <h3>🚀 Project 2</h3>
       <p>with Next.js</p>
       <a href="https://github.com/mohamadsd2002/project2">
@@ -51,15 +51,6 @@ Hi there! I'm <b>Mohamad Sedigh Bakhshaish</b>, a <b>Frontend Developer</b> who 
     </td>
   </tr>
 </table>
-
----
-
-<h2 align="center">📊 My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamadsd2002&show_icons=true&theme=tokyonight&count_private=true&hide_border=true">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsd2002&theme=tokyonight&hide_border=true">
-</p>
 
 ---
 

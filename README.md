@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Live_Demo-Online-28A745?style=for-the-badge&logo=googlechrome&logoColor=white">
       </a>
     </td>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <h3>🚀 Project 2</h3>
       <p>with Next.js</p>
       <a href="https://github.com/mohamadsd2002/project2">

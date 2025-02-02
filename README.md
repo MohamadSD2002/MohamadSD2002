@@ -10,9 +10,6 @@
 
 
 
-
-
-
 <h2 align="center">🔥 Who I Am?</h2>
 
 ```javascript 
@@ -49,7 +46,7 @@ const mohamadInfo = getMohamadSD2002();
 
 <h2 align="center">🛠️ My Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,git,docker,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,git,docker,figma,vscode,cicd" />
 </p>
 
 ---

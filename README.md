@@ -31,7 +31,7 @@ Hi there! I'm <b>Mohamad Sedigh Bakhshaish</b>, a <b>Frontend Developer</b> who 
   <tr>
     <td width="50%" align="center">
       <h3>🔥 Project 1</h3>
-      <p>A modern and responsive web app built with React.js & TailwindCSS</p>
+      <p>with React.js</p>
       <a href="https://github.com/mohamadsd2002/project1">
         <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github">
       </a>
@@ -41,7 +41,7 @@ Hi there! I'm <b>Mohamad Sedigh Bakhshaish</b>, a <b>Frontend Developer</b> who 
     </td>
     <td width="50%" align="center">
       <h3>🚀 Project 2</h3>
-      <p>A Next.js-powered portfolio site with stunning animations</p>
+      <p>with Next.js</p>
       <a href="https://github.com/mohamadsd2002/project2">
         <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github">
       </a>
@@ -60,15 +60,6 @@ Hi there! I'm <b>Mohamad Sedigh Bakhshaish</b>, a <b>Frontend Developer</b> who 
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsd2002&theme=tokyonight&hide_border=true">
 </p>
-
----
-
-<h2 align="center">💡 Fun Fact</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="500">
-</p>
-
-<h3 align="center">"The only way to do great work is to love what you do!" 💡</h3>
 
 ---
 

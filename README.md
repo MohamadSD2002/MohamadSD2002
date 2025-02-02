@@ -12,7 +12,7 @@
 
 <h2 align="center">🔥 Who Am I?</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"> Hi there! I'm <b>Mohamad Sedigh Bakhshaish</b>, a <b>Frontend Developer</b> who loves creating high-performance, interactive, and visually stunning web applications! 🚀  
+Hi there! I'm <b>Mohamad Sedigh Bakhshaish</b>, a <b>Frontend Developer</b> who loves creating high-performance, interactive, and visually stunning web applications! 🚀  
   I specialize in <b>React.js, Next.js, and TypeScript</b>, and I push the boundaries of modern UI/UX design! 🎨  
 </p>
 

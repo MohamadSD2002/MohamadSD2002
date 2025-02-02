@@ -66,10 +66,3 @@ Hi there! I'm <b>Mohamad Sedigh Bakhshaish</b>, a <b>Frontend Developer</b> who 
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
   </a>
 </p>
-
----
-
-<h3 align="center">🚀 Code. Learn. Build. Repeat. 🔥</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700">
-</p>

@@ -55,7 +55,7 @@ const mohamadInfo = getMohamadSD2002();
 
 <table align="center">
   <tr>
-    <td width="40%" align="center">
+    <td width="50%" align="center">
       <h3>🔥 Project 1</h3>
       <p>with React.js</p>
       <a href="https://github.com/mohamadsd2002/project1">
@@ -65,11 +65,11 @@ const mohamadInfo = getMohamadSD2002();
         <img src="https://img.shields.io/badge/Live_Demo-Online-28A745?style=for-the-badge&logo=googlechrome&logoColor=white">
       </a>
     </td>
-    <td width="40%" align="center">
+    <td width="50%" align="center">
       <h3>🚀 Project 2</h3>
       <p>with Next.js</p>
       <a href="https://github.com/mohamadsd2002/project2">
-        <img src="https://img.shields.io/badge/GitHub-View_Project-181717?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/GitHub-View_Project-000000?style=for-the-badge&logo=github">
       </a>
       <a href="https://mohamadsd2002.github.io/project2">
         <img src="https://img.shields.io/badge/Live_Demo-Online-28A745?style=for-the-badge&logo=googlechrome&logoColor=white">

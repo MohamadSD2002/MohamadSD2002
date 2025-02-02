@@ -25,7 +25,11 @@ function getMohamadSD2002() {
       "JavaScript",
       "TypeScript"
     ],
-    frameworks: ["React.js", "Next.js"],
+
+    frameworks: [
+      "React.js",
+      "Next.js"
+    ],
 
     favorites: [
       "computer",
@@ -33,10 +37,12 @@ function getMohamadSD2002() {
       "frantend",
       "music"
     ],
+
     learning: [
       "Computer Engineering",
       "design patterns"
     ],
+
     working_on: [
       "level up my skills", 
       "safarbazi"

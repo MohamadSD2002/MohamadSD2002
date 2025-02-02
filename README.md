@@ -42,7 +42,7 @@ function getMohamadSD2002() {
 const mohamadInfo = getMohamadSD2002();
 ```
 
--
+--
 
 <h2 align="center">🛠️ My Tech Stack</h2>
 <p align="center">

@@ -10,11 +10,37 @@
 
 ---
 
-<h2 align="center">🔥 Who Am I?</h2>
-<p align="center">
-Hi there! I'm <b>Mohamad Sedigh Bakhshaish</b>, a <b>Frontend Developer</b> who loves creating high-performance, interactive, and visually stunning web applications! 🚀  
-  I specialize in <b>React.js, Next.js, and TypeScript</b>, and I push the boundaries of modern UI/UX design! 🎨  
-</p>
+<h2 align="center">🔥 Who I Am?</h2>
+
+```javascript 
+function getMohamadSD2002() {
+  const me = {
+    full_name: "Mohamad Sedigh Bakhshayesh",
+    age: 22,
+    age: 21,
+    education: "BS student in Computer Engineering",
+
+    programming_lang: ["HTML", "CSS", "Javascript"],
+    frameworks: ["React.js", "Next.js"],
+
+    favorites: [
+      "computer",
+      "programming",
+      "frantend",
+      "music"
+    ],
+    learning: [
+      "Computer Engineering",
+      "design patterns"
+    ],
+    working_on: ["level up my skills", "safarbazi"]
+  };
+
+  return me;
+}
+
+const mohamadInfo = getMohamadSD2002();
+```
 
 ---
 

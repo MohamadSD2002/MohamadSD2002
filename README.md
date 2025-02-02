@@ -2,20 +2,66 @@
 
 <h2 align="center">🚀 My Coolest Projects</h2>
 
-<table align="center">
-  <tr>
-    <td width="100%" align="center">
-      <h3>🔥 Project 1</h3>
-      <p>with React.js</p>
-      <a href="https://github.com/mohamadsd2002/project1">
-        <img src="https://img.shields.io/badge/GitHub-View_Project-000000?style=for-the-badge&logo=github">
+<h2 align="center" style="font-size: 2.5rem; margin-bottom: 2rem; background: linear-gradient(45deg, #ff6b6b, #4ecdc4); -webkit-background-clip: text; color: transparent; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">🚀 پروژه‌های خفن من</h2>
+
+<div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; max-width: 1200px; margin: 0 auto; padding: 1rem;">
+  <!-- Project 1 -->
+  <div style="background: linear-gradient(145deg, #2d3436, #1e1e1e); border-radius: 15px; padding: 2rem; width: 500px; transition: transform 0.3s, box-shadow 0.3s; border: 1px solid #4ecdc455; position: relative; overflow: hidden;">
+    <div style="position: absolute; top: -50px; right: -50px; width: 100px; height: 100px; background: #ff6b6b33; border-radius: 50%; filter: blur(30px);"></div>
+    <h3 style="color: #fff; font-size: 1.8rem; margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem;">
+      <span style="background: linear-gradient(45deg, #ff6b6b, #ff9f43); -webkit-background-clip: text; color: transparent;">🔥 پروژه اول</span>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+    </h3>
+    <div style="margin-bottom: 1.5rem; color: #a0a0a0; line-height: 1.6;">یک پروژه مدرن با قابلیت‌های پیشرفته که از آخرین تکنولوژی‌های React استفاده میکنه</div>
+    <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+      <a href="https://github.com/mohamadsd2002/project1" style="text-decoration: none; transition: transform 0.2s; display: inline-flex; align-items: center; gap: 0.5rem; background: #6c5ce7; color: white; padding: 0.6rem 1.2rem; border-radius: 8px; font-size: 0.9rem;">
+        <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20" height="20" alt="GitHub">
+        سورس کد
       </a>
-      <a href="https://mohamadsd2002.github.io/project1">
-        <img src="https://img.shields.io/badge/Live_Demo-Online-28A745?style=for-the-badge&logo=googlechrome&logoColor=white">
+      <a href="https://mohamadsd2002.github.io/project1" style="text-decoration: none; transition: transform 0.2s; display: inline-flex; align-items: center; gap: 0.5rem; background: #00b894; color: white; padding: 0.6rem 1.2rem; border-radius: 8px; font-size: 0.9rem;">
+        <img src="https://img.icons8.com/ios-filled/50/ffffff/globe--v1.png" width="20" height="20" alt="Live">
+        دموی زنده
       </a>
-    </td>
-  </tr>
-</table>
+    </div>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="background: linear-gradient(145deg, #2d3436, #1e1e1e); border-radius: 15px; padding: 2rem; width: 500px; transition: transform 0.3s, box-shadow 0.3s; border: 1px solid #4ecdc455; position: relative; overflow: hidden;">
+    <div style="position: absolute; top: -50px; right: -50px; width: 100px; height: 100px; background: #4ecdc433; border-radius: 50%; filter: blur(30px);"></div>
+    <h3 style="color: #fff; font-size: 1.8rem; margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem;">
+      <span style="background: linear-gradient(45deg, #4ecdc4, #45b7d1); -webkit-background-clip: text; color: transparent;">🚀 پروژه دوم</span>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+    </h3>
+    <div style="margin-bottom: 1.5rem; color: #a0a0a0; line-height: 1.6;">یک پروژه حرفه‌ای با Next.js که از قابلیت‌های SSR و SSG بهره میبره</div>
+    <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+      <a href="https://github.com/mohamadsd2002/project2" style="text-decoration: none; transition: transform 0.2s; display: inline-flex; align-items: center; gap: 0.5rem; background: #6c5ce7; color: white; padding: 0.6rem 1.2rem; border-radius: 8px; font-size: 0.9rem;">
+        <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" width="20" height="20" alt="GitHub">
+        سورس کد
+      </a>
+      <a href="https://mohamadsd2002.github.io/project2" style="text-decoration: none; transition: transform 0.2s; display: inline-flex; align-items: center; gap: 0.5rem; background: #00b894; color: white; padding: 0.6rem 1.2rem; border-radius: 8px; font-size: 0.9rem;">
+        <img src="https://img.icons8.com/ios-filled/50/ffffff/globe--v1.png" width="20" height="20" alt="Live">
+        دموی زنده
+      </a>
+    </div>
+  </div>
+</div>
+
+<style>
+  div[style*="linear-gradient(145deg, #2d3436, #1e1e1e)"]:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(78, 205, 196, 0.2);
+  }
+  
+  a[style*="background: #6c5ce7"]:hover {
+    transform: translateY(-2px);
+    background: #8577e6 !important;
+  }
+  
+  a[style*="background: #00b894"]:hover {
+    transform: translateY(-2px);
+    background: #00ce9d !important;
+  }
+</style>
 
 
 

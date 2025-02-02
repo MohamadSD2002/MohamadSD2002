@@ -56,7 +56,7 @@ const mohamadInfo = getMohamadSD2002();
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,git,docker,figma,vscode" />
 </p>
 
----
+
 
 <h2 align="center">🚀 My Coolest Projects</h2>
 

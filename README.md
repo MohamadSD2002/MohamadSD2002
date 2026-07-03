@@ -1,78 +1,82 @@
-<!-- 🚀 انیمیشن تایپ‌شونده در هدر -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&height=60&lines=Hey%2C+I'm+Mohamad!+%F0%9F%91%8B;Welcome+to+My+World+of+Code!+%F0%9F%9A%80;Frontend+Developer+%7C+React.js+%7C+Next.js" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&height=60&lines=Hey%2C+I'm+Mohamad+%F0%9F%91%8B;Frontend+Developer+%7C+React+%7C+Next.js;Building+modern+web+interfaces" />
 </p>
 
-<!-- 🎬 گیف متحرک در هدر -->
 <p align="center">
-  <img src="https://github.com/MohamadSD2002/MohamadSD2002/assets/118728086/a09ea0a0-486e-486d-9576-ca269f807334" width="800">
+  <img src="https://github.com/MohamadSD2002/MohamadSD2002/assets/118728086/a09ea0a0-486e-486d-9576-ca269f807334" width="800" />
 </p>
 
+---
 
+# 👨‍💻 About Me
 
-<h2 align="center">🔥 Who I Am?</h2>
+```javascript
+const developer = {
+  name: "Mohamad Sedigh Bakhshayesh",
+  role: "Frontend Developer",
 
-```javascript 
-function getMohamadSD2002() {
-  const me = {
-    full_name: "Mohamad Sedigh Bakhshayesh",
-    age: 22,
-    education: "BS student in Computer Engineering",
+  stack: {
+    frontend: ["React", "Next.js", "TypeScript"],
+    state: ["Redux", "React Query"],
+    styling: ["Tailwind", "CSS"],
+  },
 
-    programming_lang: [
-      "HTML", 
-      "CSS", 
-      "JavaScript",
-      "TypeScript"
-    ],
+  approach: [
+    "component-driven development",
+    "performance-focused UI",
+    "clean and reusable code"
+  ],
 
-    frameworks: [
-      "React.js",
-      "Next.js"
-    ],
+  currentWork: "Building scalable frontend applications"
+};
 
-    favorites: [
-      "computer",
-      "programming",
-      "frantend",
-      "music"
-    ],
-
-    learning: [
-      "Computer Engineering",
-      "design patterns"
-    ],
-
-    working_on: [
-      "level up my skills", 
-      "safarbazi.com"
-    ]
-  };
-
-  return me;
-}
-
-const mohamadInfo = getMohamadSD2002();
+console.log(developer);
 ```
 
+---
 
+# 🛠 Tech Stack
 
-<h2 align="center">🛠️ My Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,git,docker,figma,vscode" />
 </p>
 
 ---
 
-<h2 align="center">📬 Let's Connect!</h2>
+# 📊 GitHub Stats
+
+<p align="center">
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=MohamadSD2002&show_icons=true&theme=radical" 
+  referrerpolicy="no-referrer"
+/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadSD2002&theme=radical" />
+</p>
+
+---
+
+# 📬 Contact
+
 <p align="center">
   <a href="mailto:mohamadsedighbakhshaish@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
   </a>
+
   <a href="https://www.linkedin.com/in/mohamadsd2002">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://github.com/mohamadsd2002">
-    <img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github">
+
+  <a href="https://github.com/MohamadSD2002">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
+
+---
+
+# ⚡ Note
+
+Frontend developer focused on building scalable and maintainable UI systems.
